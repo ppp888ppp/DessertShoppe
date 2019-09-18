@@ -6,6 +6,10 @@
 * Your software will be used for the checkout system. To do this, you will implement an inheritance hierarchy of classes derived from a “DessertItem” abstract superclass.  
 
 * One important feature is that it will be run through the use of a main() driver; that is, the program will carry out its execution by itself without any input from the user
+
+* You can test the program by referring the **TestCheckout.java** file provided
+
+* You can also see the expected output in **expected-output.txt** file.
  
  
  ## Design and Implementation 

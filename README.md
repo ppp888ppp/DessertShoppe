@@ -54,3 +54,5 @@
  * The complete specifications for the Checkout class are provided for you in **Checkout JavaDoc.pdf** file.
  
  * Do not forget to give Checkout a data member that keeps track of the DessertItems in the form of an array. 
+ 
+ 

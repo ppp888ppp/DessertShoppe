@@ -60,3 +60,8 @@
  * Do not forget to give Checkout a data member that keeps track of the DessertItems in the form of an array. 
  
  
+ 
+ 
+## Example Output
+
+![Capture1](https://user-images.githubusercontent.com/51673576/65818491-d17b8300-e1df-11e9-8dc2-c82fccb99be3.JPG)
